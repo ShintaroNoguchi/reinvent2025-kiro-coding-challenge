@@ -1,0 +1,20 @@
+{
+  "TagSet": [
+    {
+      "Key": "aws:cloudformation:stack-name",
+      "Value": "participant-account"
+    },
+    {
+      "Key": "aws:cloudformation:logical-id",
+      "Value": "Question1Bucket"
+    },
+    {
+      "Key": "aws:cloudformation:stack-id",
+      "Value": "arn:aws:cloudformation:us-west-2:183631329575:stack/participant-account/efcd38a0-d015-11f0-9587-0ae3f3d92099"
+    },
+    {
+      "Key": "question1",
+      "Value": "complete"
+    }
+  ]
+}
